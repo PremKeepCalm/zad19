@@ -11,6 +11,12 @@ div {
     margin-left: 80px;
     margin-bottom: 30px;
 }
-.div1, .div2, .div3, .div4 {
-    background-image: linear-gradient(black, white)
+.div2 {
+    opacity: 0.6 ;
+}
+.div3 {
+    opacity: 0.3;
+}
+.div4 {
+    opacity: 0.1;
 }
